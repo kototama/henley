@@ -1,0 +1,19 @@
+Henley
+
+A GUI for a text generator similar to the one
+in the book Ansi Common Lisp, Paul Graham
+
+Usage
+
+lein run henley.core -main
+
+## Installation
+
+go to the henleyuicomponents directory "mvn install"
+go to the henley directory "lein deps" and then "lein uberjar" (or "cake uberjar")
+
+## License
+
+Copyright (C) 2010 Kototama
+
+Distributed under the Eclipse Public License, the same as Clojure.
